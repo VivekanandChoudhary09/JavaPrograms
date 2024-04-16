@@ -1,4 +1,5 @@
 public class CheckPrime{
+	
 	public static void main(String[] args){
 		int num = 29;
 		boolean flag = false;
